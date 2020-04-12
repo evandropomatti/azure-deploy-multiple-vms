@@ -1,2 +1,17 @@
 # azure-deploy-multiple-vms
 Generalizing and deploying multiple VMs in Azure
+
+# Preparing your VM
+
+Important: These procedures clean the OS configuration. Make a backup/snapshot first.
+
+#### For Windows
+
+Use System Preparation Tool.
+
+#### For Linux
+
+```sh
+# Take a backup of the VM first
+sudo waagent -deprovision+user
+```
