@@ -15,3 +15,7 @@ Use System Preparation Tool.
 # Take a backup of the VM first
 sudo waagent -deprovision+user
 ```
+
+## Template
+
+https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-copy-managed-disks
