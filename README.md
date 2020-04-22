@@ -9,6 +9,10 @@ Important: These procedures clean the OS configuration. Make a backup/snapshot f
 
 Use System Preparation Tool.
 
+```
+sysprep /generalize
+```
+
 #### For Linux
 
 ```sh
