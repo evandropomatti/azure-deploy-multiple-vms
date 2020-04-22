@@ -1,4 +1,4 @@
-# azure-deploy-multiple-vms
+# Deploy multiple VMs in Azure
 Generalizing and deploying multiple VMs in Azure
 
 # Preparing your VM
